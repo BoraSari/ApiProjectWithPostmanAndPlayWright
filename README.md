@@ -95,7 +95,8 @@ Description: Tests the removal of a booking entry.
 Flow: Sends a DELETE request to the /booking/{id} endpoint with the authentication token and asserts a successful deletion response (e.g., status 201).
 
 Screenshots/GIFs
-(API testleri genellikle görsel değildir, ancak CI/CD boru hattındaki test sonuçlarını veya Postman/Insomnia gibi araçlardan API çağrılarının başarılı yanıtlarını gösteren ekran görüntüleri veya GIF'ler ekleyebilirsiniz.)
+![image](https://github.com/user-attachments/assets/58a12c6d-a7d1-44fa-907a-5d065a0c2a75)
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
